@@ -60,5 +60,6 @@ client.py
 server.py
 
 <img width="647" height="101" alt="Screenshot 2026-01-31 142712" src="https://github.com/user-attachments/assets/ee513ca8-c779-4d53-b9fc-87186d7b9d68" />
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
