@@ -9,7 +9,7 @@
 6. Stop the Program
 ## PROGRAM
 
-client.py
+server.py
 
 ```
 import socket
@@ -36,7 +36,7 @@ while start < len(frames):
         start = end
 ```
 
-server.py
+client.py
 
 ```
 import socket
